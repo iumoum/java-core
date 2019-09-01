@@ -2,9 +2,245 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e502ea5-e241-4fe3-a081-34a2ffb53d5c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/3항연산자 사용 시 두 데이터 타입 중 더 범위가 큰 타입을 사용.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Access Modifier For Class.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Access Modifier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Annotation default value.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Anonymous Inner Class 구현.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Anonymous Object는 Stack 메모리를 아끼기 위해 사용된다 . 이름없는 객체가 생성된다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Anonymous class를 이용해서 interface를 즉석으로 구현할 수 있다. 하지만 그걸 구현한 클래스는 이름이 없다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/ArrayList가 vector 보다 빠르다. 앞서 나열한 차이를 통해 ArrayList가 Vector보다 우월하다는 것을 체감할 수 있다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Array란.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/AutoBoxing이 사용되는 예시 - Collection의 Generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/BufferedReader 객체를 생성하려면 InputStreamReader 객체가 필요하고 InputStreamReader 객체를 생성하려면 System.in 객체가 필요하다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Class class를 이용해 객체를 생성하는 법.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Class class의 여러가지 메서드들.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Class.forName reflection API를 이용해 해당 드라이버를 등록한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Class와 Object_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Cloning Object 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Cloning Object 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Cloning은 object의 clone 메서드를 이용해 Deep Copy하는 방법이다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Collection Framework는 자바에서 기본적인 자료구조를 구성하기 위한 환경을 제공.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Collection Interface만으론 인덱스를 활용하거나 Collections 클래스의 정렬 메소드 등을 사용할 수 없다 따라서 List 인터페이스를 이용한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Collection interface는 인덱스에 대한 기술이 없기 때문에 index를 사용하려면 List 인터페이스를 이용해야한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Collection 인터페이스의 Iterator 메서드를 이용해 Iterator 객체를 리턴 받고 그 객체의 next 메서드로 컬렉션 내부의 값을 리턴받는 방법.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Collection 프레임워크를 사용하는 이유는 길이에 제한이 없는 배열을 사용하기 위함이다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Collection에 저장하고 싶은 객체의 타입을 지정하고 싶을 때 제네릭을 쓰낟.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Comparable의 compareTo 메서드를 구현하는 것은 Comparator의 compare 메서드를 구현하는 원리와 같다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Comparator 는 Functional Interface이며, List를 사용자가 정의한 클래스에 따라 정렬하기위해 사용된다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Comparator, Comparable에 대한 관찰.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Comparator는 정렬을 일반적이지 않은 다른 조건으로 정렬하기 위해 사용되는 인터페이스이다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Comparator를 이용한 커스텀 타입 정렬.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Comparator를 이용해 커스텀 타입(사용자 정의 클래스) 멤버변수를 조건으로 정렬하는 방법.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Custom Annotation을 정의하는 방법 과 Annotation의 종류 그리고 Annotation의 value를 지정하는 방법.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Deep copy는 객체를 새로 생성해 복사의 대상이 되는 객체의 값을 대입하여 복사하는 방법이다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Deserialization XML Documents.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Exception Class는 모든 예외 클래스들의 super class이다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Exception과 Error의 차이 및 구조.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Generic은 Collection에 여러가지 타입의 객체를 담았을 때 런타임에러가 발생하는 것을 방지하는 역할을 한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Generic은 클래스 내부에서 사용할 타입을 클래스 외부에서 지정할 수 있게 하는 기능이다 참조 데이터 타입만 사용 가능하다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/HashMap과 Hashtable 차이.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/HashSet은 데이터를 가져올 때 Hash 알고리즘을 이용하기 때문에 데이터에 순서가 없다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/IDE 별 존재하는 소스코드 자동생성 기능을 통해 toString 메서드를 override할 수 있다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Inner class는 컴파일 할 때 A$B.class 파일이 만들어진다. A는 메인 클래스 B는 Inner class.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Inner class를 인스턴스화 하는 법.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Inner class의 종류.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/JAVA로 QR 코드 만들기.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/JVM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Java reflection API를 통해 private method를 호출할 수 있다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Java에서 enum은 결국 클래스이기 때문에 멤버변수와 멤버메서드를 가질 수 있다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Key와 Value 값을 이용한 데이터 집합을 다룰 때 Map 인터페이스를 사용한다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Key와 Value를 가진 Properties 파일 만들기.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Linked List 는 index 값을 저장하는 것이 아닌 P N 을 지정하는 node 단위로 데이터를 저장하기 때문에 데이터 사이에 새로운 데이터를 추가할 때 ArrayList보다 효율적이다. 하지만 index 값을 직접 저장하지 않으므로 데이터를 가져오는 데 있어서는 ArrayList가 더 빠르다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/LinkedHashMap은 노드끼리 연결되어 있기 때문에 입력받은 순서를 기억함.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/List와 Set은 비슷하지만 Set은 중복된 값을 가질 수 없다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Map 인터페이스 keySet 메서드는 해당 Map의 Key 값들이 담긴 Set 타입의 데이터 집합을 리턴한다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Map에서 키가 중복되도록 데이터를 put하면 해당 키에 해당하는 value 가 수정된다. 즉 키는 중복될 수 없는 Set이다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/MemberInnerClass 구현.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Meta Annotation을 정의할 때 사용되는 애노테이션들 inherited는 상속, Documented는 문서에 애노테이션을 남기기, Target은 애노테이션을 붙일 대상레벨, Retention은 애노테이션 유지 시간을 설정할 수 있다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Multi Threading 을 사용하는 이유 둘째는 비동기 처리를 하기 위함이다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Multi Threading을 사용하는 이유 셋째는 웹 애플리케이션에서 같은 servlet에 여러 사용자가 request를 했을 경우이다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Multi Threading을 하는 이유 중 첫째는 멀티코어 CPU의 모든 성능을 이용하기 위함이다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/OS에는 scheduler가 있다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Object Serialization을 이용해 다른 JVM 위에서도 같은 객체를 생성할 수 있다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Object 클래스에 정의되어 있는 toString 메서드.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Object 클래스에 정의된 메서드를 인터페이스에서 default 메서드로 구현할 경우 에러가 뜸.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Object 클래스의 wait 메서드와 Thread 클래스의 sleep 메서드의 차이점.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Properties 클래스는 HashTable 즉 Key와 Value 구조 지향이다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Runnable Lamda Expression.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Runnable 객체와 Thread 객체 연결.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Runnable 인터페이스는 Functional Interface 애노테이션이 붙었기 때문에(SAM 이기 때문에) 람다표현식으로 객체를 생성할 수 있다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/SAM은 1.8 버전에서 생긴 기능이며, 이를 이용해 람다표현식을 사용할 수 있다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Serialization and Deserialization.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Serialization을 binary format이 아닌 XML Documents로 만들 수 있다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Set의 특성을 이용해서 ArrayList 내부 중복된 값들만 출력이 가능하다. Set은 중복된 값을 허용하지 않기 때문에 중복된 값을 넣는 add 메서드에서 false를 리턴하기 때문이다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/String 객체 생성 시 new 연산자를 사용했을 때와 안했을 때.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/String 클래스로 생성된 객체가 immutable 성격을 띄는 이유는 성능향상과 flyweight 패턴을 사용하여 자원을 아끼기 위함이다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/StringBuffer 클래스는 thread safe 하다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/System 클래스의 currentTimeMillis 메서드는 1970년 1월 1일로부터 현재까지의 시간 차를 밀리초로 환산한 값을 리턴한다. 이를 이용해 메서드의 시작과 끝지점의 밀리초 차이를 구할 수 있고 이는 메서드 실행시간을 측정할 수 있음을 의미한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Thread 객체의 join 메서드는 해당 쓰레드가 끝날때까지 기다리는 메서드이다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Thread.sleep 메서드를 이용해 처리를 일시중지시킬 수 있다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Thread가 수행해야할 행동을 클래스로 정의해주어야한다. 이 때 만들어지는 클래스는 Thread 클래스를 상속받아야한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Tree Set을 이용하면 정렬된 결과를 볼수 있다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/TreeSet을 이용하면 Set 내부의 데이터를 정렬할 수 있다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Try with resources (java 1.7) 을 이용하여 catch와 finally 없이도 예외처리를 할 수 있게됨..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Two Dimentional.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Vector는 List 인터페이스를 구현한 구현체 중 하나이다 ArrayList랑 비슷하다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Wrapper 클래스를 이용한 객체생성.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Wrapping Unwrapping을 Boxing Unboxing이라고도 표현함.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/Wrapping된 객체에서 primitive 타입 값을 추출하는 것을 Unwrapping이라 한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/XMLEncoder를 이용한 Object Serialization.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/abstraction은 어떤 것의 세부사항이 아닌 중요한 특징들을 추출해내는 것이다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/abstraction이란 어떤 것으로 부터 중요한 특징들을 추출해 내는 것이다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/anonymous inner class, 익명클래스라고도 하며 상속받을 클래스의 생성자를 호출할 때 블럭을 만들고 그 내부에 클래스내용을 작성하는 방법이다. 해당클래스는 이름을 가지지 못한다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/checked exception는 컴파일 전 반드시 예외처리를 명시해야하는 exception들이고 unchecked는 명시하지않아도 되는 예외처리들이다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/class가 interface 보다 우선권을 가진다. 따라서 위의 두개에 똑같이 정의된 메서드가 있고, 두 개를 전부 상속 했을 때 class의 메서드를 호출하게된다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/collection Collection Collections.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/comparator 없이 사용자가 만든 클래스의 객체가 담긴 배열을 Collections.sort 메서드로 정렬하려 할 때 발생하는 타입변수 에러.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/compare 메서드가 리턴하는 값에 따라 각 요소의 위치 교체 여부가 결정된다. 일반 오름차순 정렬일 땐 양수 리턴이 교체 대상이 되고 내림차 순일 땐 음수가 교체 대상이 된다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/contructor 매개변수 타입을 implicit conversion하는 예시.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/contructor는 모든 클래스에 언급하지 않아도 존재하는 클래스이름과 이름이 같은 멤버메서드이다 .png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/contructor는 해당 객체를 생성할 때 필요한 메모리양을 제공하고 new 키워드는 이를 이용해 메모리객체를 메모리에 할당함.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/currentThread static 메서드를 이용해서 실행중인 쓰레드를 선택할 수도 있다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/encapsulation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/enhanced for loop 를 이용해 값을 가져오는 방법 auto unboxing이 적용된다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/enum 구현.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/enum 내부에 생성자, 멤버변수 그리고 멤버메소드를 정의 후 사용.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/enum 정리.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/enum 클래스는 이미 enum 클래스를 상속받았기 때문에 다른 클래스를 상속할 수 없다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/enum과 switch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/enum으로 만들어진 객체의 ordinal 메서드를 이용해 해당 상수가 상수 집합에서 몇 번째로 나열된 상수인지 리턴받을 수 있다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/enum은 인터페이스를 구현 할 수 있다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/enum의 존재목적과 enum이 없었을 때 enum을 구현했던 방법 및 문제점들.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/file handling.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/final 키워드를 메서드에 붙였을 때, override를 할 수 없는 상태가 된다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/final 키워드를 변수에 붙였을 때, 해당 변수에 값을 한번 지정하면 다음부턴 바꿀 수 없는 상수가 된다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/final 키워드를 클래스에 붙였을 때, 더 이상 해당 클래스를 상속할 수 없게 된다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/i++의 의미.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/immutable 하게 만드는 것은 성능을 향상시킨다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/inheritance 관계에 놓인 두 클래스를 호명하는 여러가지 방법.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/inheritance는 다른 클래스의 속성과 메서드를 도출하기 위한 메카니즘이다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/interface 내부에서 static이 붙은 메서드 또한 정의가 가능하다. 다른 static 메서드 처럼 객체 생성없이 쓸 수 있다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/interface가 interface를 상속받을 땐 extends로.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/interface의 메서드는 기본적으로 public abstract이 붙는다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/isAlive 메서드를 이용해 해당 쓰레드가 살아있는지 체크할 수 있다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/jagged Array.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/java 1.7 부터는 제네릭을 사용하여 생성자를 호출할 때 다이아몬드 표기법을 사용할 수 있다. (타입을 기재할 필요가 없음).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/java application에서는 기본적으로 main 이라는 Thread만 사용한다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/java1.5부터 도입된 Annotation을 이용하면 런타임에 발생할 수 있는 오류를 컴파일 타임에 발생할 수 있게하여 디버깅하기 쉬워진다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/javap는 java class file dissembler이며, .class파일로 부터 구현내용을 제외한 구조를 표기해준다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/java에서는 모든 class는 Object class를 상속받는다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/java와 database를 연결하는 7단계.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/jdbc 2.a 단계. 해당 DBMS의 JDBC driver를 프로젝트의 라이브러리에 Load 함.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/jdbc API를 사용하여 java와 db를 연결하는 첫 단계. java.sql 패키지 import.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/keySet을 이용한 Map 데이터 열거 방법.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/marker interface는 말그대로 해당 객체에 마커처럼 붙일 수 있는 인터페이스이며 내부에는 아무것도 존재하지 않는다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/member 변수와 local 변수의 이름이 같을 경우 this 키워드를 이용해 구분한다. this는 해당 객체를 뜻한다. 즉 member 변수를 뜻함.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/method overloading의 또다른 명칭.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/method overriding의 또다른 명칭.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/multiple inheitance일 경우 생길 수 있는 문제 diamond problem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/multiple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/nested class 구현.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/non-static한 변수 또는 메서드를 static 내부에서 사용할 수 없다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/package를 사용하는 이유는 클래스 파일들을 분류하기 위함이며 Unique 특성을 위해서 도메인 네임의 역순으로 작명한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/primitive variable을 Object로 전환하는 것을 Wrapping 이라 한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/properties handling.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/public class일 경우 java파일명과 클래스명이 같아야 함.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/reflection API는 주로 Debugging에 이용된다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/reflection API를 통해 클래스의 내부를 알 수 있다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/shorthand연산자를 사용할 때 E1의 타입을 따름.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/single level and multi level inheritance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/split 메서드의 사용.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/stack and heap memory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/stack은 클래스 마다 존재하고, call by value이면서 같은 객체를 참조할 수 있는 이유는 hashCode를 전달하기 때문이다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/statement 객체의 도움으로 쿼리를 실행할 수 있다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/static and non-static.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/static import.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/static inner class를 인스턴스화 하는 법.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/static 블럭을 이용한 static 메서드 사용 법, static 블럭은 main 실행 전 부터 실행된다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/static 블록은 클래스가 jvm에 로드 될 때 호출된다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/static 키워드가 붙은 메서드에 non-static 변수를 쓸 수 없는 이유는 non-static은 객체가 필요하기 때문임. static메서드는 객체 없이 쓰는 메서드임.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/static 키워드를 붙이면 객체를 생성하지 않고도 변수 또는 메서드이용이 가능하다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/stream API.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/super 키워드를 객체처럼 사용할 수 있다, 때문에 super class의 속성도 가져올 수 있다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/throw 키워드를 이용해 exception 객체를 생성하여 던질 수 있다. 즉 예외상황을 발생시킬 수 있다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/try문에서 exception이 발생할 경우 나머지 코드는 실행하지 않고 catch문으로 점프한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/try블럭에서 예외가 발생하면 exception 클래스를 이용해 만든 exception 객체를 던지고 그것을 catch 에서 받는다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/variables and method.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/vector는 capacity를 기본 10에서부터 100%씩 증가시키는 반면 ArrayList는 50% 씩 증가시킨다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/vector는 일부 메서드가 Thread safe 하지만 ArrayList는 그렇지 않다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/wait 메서드는 synchronized가 붙은 메서드에서만 사용가능하며 반복문 안에서만 호출해야한다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/가변인자.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/간단한 텍스트파일 만들기.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/객체를 만든다는 것.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/결DB와 자바프로그램의 연결성을 JDBC하고 함.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/기본 Thread 사용법.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/기본적인 Map 사용법.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/다만 다른 클래스를 상속받아야 할 경우 diamond problem이 생기기 때문에 Runnable이라는 인터페이스를 이용해야한다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/다음과 같이 반복문을 이용해 리턴도 가능.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/동기화가 안되어 c의 값이 랜덤하게 나타나는 예시.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/람다표현식과 익명 객체 개념을 이용한 Comparator 객체 사용.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/람다표현식은 보일러플레이트 코드를 없애준다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/람다표현식을 사용하려면 SAM만 있어야 하고 @FunctionalInterface 애노테이션을 사용하면 해당 인터페이스에 두 개 이상의 메서드가 있을 때 경고해준다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/만약 에러를 핸들링하고 싶지 않다면 throws 키워드를 이용해 suppress할 수 있도록(예외를 참을수 있도록) 할 수 있다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/멀티 태스킹이란 뭔가를 동시에 하는 것.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/메서드에 synchronized 키워드를 붙여 동기화 시킴..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/명령문은 다음과 같은 두가지 타입으로 분류할 수 있다. 문제가 없는 normal statement와 예외가 생길 여지가 있는 critical statement이다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/미리 정의된 쿼리가 존재할 때 PreparedStatement를 사용한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/부모 클래스가 default constructor(인수가 없는 생성자)가 없을 경우 자식 클래스에서는 super 키워드를 이용해 인수가 있는 부모의 생성자를 호출해야만 한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/사용자 정의 exception 적용 방법.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/사용자의 입력을 받는 방법은 여러가지가 있다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/사이즈가 고정된 배열을 쓰려면 일반 배열(속도가 빠름)로 그렇지 않으면 Collection 을 이용해라.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/상속을 받았을 땐 항상 부모 클래스의 default contructor를 호출한다. (자식 객체를 생성할 때 매개변수를 대입하더라도).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/상속을 받지 않은 클래스도 super()를 호출한다 Object 클래스를 상속받기 때문이다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/생산자-소비자 문제를 해결한 interThread communication.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/생성자를만들면 기본생성자는 사라진다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/세미콜론 없이 콘솔 찍어보기.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/쓰레드 간 우선순위가 정해지지 않고 동시에 실행될 경우 랜덤 순서로 처리한다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/쓰레드 객체 생성시 Runnable 타입의 객체와 쓰레드 이름까지 전달하여 생성할 수 있다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/쓰레드 객체와 runnable 객체를 이어주는 방법.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/쓰레드 우선순위 정해주는 법 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/쓰레드 우선순위 정해주는 법.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/쓰레드는 각각 이름을 가질 수 있으며, 이름을 지어주지 않으면 기본적으로 아래 그림과 같이 설정된다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/예외가 발생하건 말건 실행되는 것은 finally 블럭 내부의 문장들이다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/예외는 해당 메서드에서 직접 처리하거나 그 메서드를 포함하고 있는 상위 메서드에게 던질 수 이싿..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/워드 프로그램에서 타이핑과 동시에 오타체크가 가능한 이유는 Process가 나눠져서 동시에 실행되기 때문이며, 이러한 process의 단위를 Thread라 한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/이 문맥에서 Entry는 Map의 인터페이스 이다... 인터페이스의 인터페이스 즉 중첩인터페이스이다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/이진법 표현.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/익명객체까지 사용한 쓰레드.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/인스턴스화 하는 여러가지 방법.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/인터페이스 내부 메서드의 접근지정자가 default일 경우 메서드 정의가 가능하다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/인터페이스를 상속한 클래스가 한번만 쓰일 클래스라면 익명클래스로 정의하는게 좋다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/입력받은 문자열을 int형으로 바꾸려면 Integer 클래스의 parseInt static 메서드를 이용해 변환할 수 있다. 숫자 형식 이외의 값을 변환하려할 시 NumberFormat Exception이 발생한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/자바 직렬화 serialization.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/자바 컴파일러에서 제공되는 values 메서드를 이용해서 enum의 모든 상수들의 이름을 가져올 수 있다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/자바에서는 같은 이름의 메서드가 다양한 형태로 존재할 수 있는 데 (override, overloading) 이러한 특성을 polymorphism이라 한다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/자바에서는 모든 것이 Call by Value.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/자원 닫아주기.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/점근표기법.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/제네릭 설정된 클래스 내부에서 물음표를 사용할 경우 생성자 호출 시 입력한 데이터 타입을 대입한다 따라서 아래의 그림과 같이 응용할 수 있다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/제네릭에 super 키워드를 이용해 타입 매개변수 T의 super 클래스인 데이터 타입으로 한정시킬 수 있다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/직렬화 할 때의 serialVersion과 역직렬화 할 때의 serialVersion이 같아야함 당연.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/추상화를 사용하는 이유.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/커스텀 애노테이션 사용 및 reflection API를 이용한 애노테이션 멤버변수 호출.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/키와 값 한쌍을 엔트리 라고 부른다 entry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/테스트를 하거나 클래스를 이해하려 할 때 reflection API를 사용한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/특정 객체의 hashCode 값을 여러 레퍼런스 변수가 참조하게 하여 객체 copy 하는 방법을 shallow copy라고한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/특정 클래스가 각 인스턴스를 비교가능하게 할 수 있도록 하려면 Comparable 인터페이스를 구현하여야 하는데, 이미 구현되어 있거나 구현이 안된 클래스를 가져다 쓸 때가 있다. 이럴 경우 Comparator를 이용한다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/특정 클래스를 상속받은 클래스만을 데이터 타입으로 입력받고 싶은 경우 다음과 같이 작성.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/프로시져 랭귀지(PL)을 이용할 땐 CallableStatement 객체를 이용한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/프로젝트를 진행하다 보면 property 파일이 필요할 때가 있다. 예를 들어 DB연결을 할 때 필요한 정보들을 설정한다던지 말이다..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/한 클래스에 여러개의 contructor가 있을 수 있으며 이를 생성자 오버로딩이라 한다 이것은 다형성의 범주에 속한다.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/해당 객체의 메서드가 synchronized 키워드를 포함하지 않을 경우 Not Thread safe한 객체라고 표현함.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-core/META-INF/java-core.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-core/META-INF/java-core.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-core/javacore/AnnotationDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-core/javacore/AnnotationDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-core/javacore/SmartPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-core/javacore/SmartPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-core/javacore/StreamApiDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-core/javacore/StreamApiDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/StreamApiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/StreamApiDemo.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,88 +250,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javacore/MemberInnerDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-              <folding>
-                <element signature="e#359#360#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javacore/NestedClassDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javacore/AnonyInnerClassDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#83#84#0" expanded="true" />
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javacore/EnumDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javacore/EnumMemberDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-              <folding>
-                <element signature="e#661#662#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javacore/AnnotationDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -103,118 +257,10 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>sqrt</find>
-      <find>7610</find>
-      <find>5354</find>
-      <find>clone</find>
-      <find>compareTo</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/javacore/LoopPattern.java" />
-        <option value="$PROJECT_DIR$/src/javacore/PalindromeCheck.java" />
-        <option value="$PROJECT_DIR$/src/javacore/PerfectNumber.java" />
-        <option value="$PROJECT_DIR$/src/javacore/ArmstrongNumber.java" />
-        <option value="$PROJECT_DIR$/src/javacore/PrimeNumberCheck.java" />
-        <option value="$PROJECT_DIR$/src/javacore/ThreeWayToSwapTwoNumbers.java" />
-        <option value="$PROJECT_DIR$/src/javacore/RandomValue.java" />
-        <option value="$PROJECT_DIR$/src/javacore/TwoDimentional.java" />
-        <option value="$PROJECT_DIR$/src/javacore/TwoDimensional.java" />
-        <option value="$PROJECT_DIR$/src/javacore/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/javacore/CreateObject.java" />
-        <option value="$PROJECT_DIR$/src/javacore/FirstCode.java" />
-        <option value="$PROJECT_DIR$/src/javasub/SubClass.java" />
-        <option value="$PROJECT_DIR$/src/javacore/CountCreatedObject.java" />
-        <option value="$PROJECT_DIR$/src/javacore/Phone.java" />
-        <option value="$PROJECT_DIR$/src/javacore/SamsungA5.java" />
-        <option value="$PROJECT_DIR$/src/javacore/Iphone.java" />
-        <option value="$PROJECT_DIR$/src/javacore/TestAbstract.java" />
-        <option value="$PROJECT_DIR$/src/javacore/DemoToString.java" />
-        <option value="$PROJECT_DIR$/src/javacore/UserInput.java" />
-        <option value="$PROJECT_DIR$/src/javacore/DemoWrappingClass.java" />
-        <option value="$PROJECT_DIR$/src/javacore/StringSpliting.java" />
-        <option value="$PROJECT_DIR$/src/javacore/DemoCopy.java" />
-        <option value="$PROJECT_DIR$/src/javacore/DemoQRCode.java" />
-        <option value="$PROJECT_DIR$/src/javacore/MakePropertiesDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/SerialDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/HandlingFileDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/College.java" />
-        <option value="$PROJECT_DIR$/src/javacore/Student.java" />
-        <option value="$PROJECT_DIR$/src/javacore/SerializeXML.java" />
-        <option value="$PROJECT_DIR$/src/javacore/ClassDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/ThreadDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/RunnableThreadDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/ThreadJoinAliveDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/InternalThreadingDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/InterThreadCommunicationDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/CollectionDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/GenericsDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/VectorDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/StreamApiDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/CompImpl.java" />
-        <option value="$PROJECT_DIR$/src/javacore/CollectionsDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/ComparatorDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/SetDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/MapDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/MemberInnerDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/NestedClassDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/AnonyInnerClassDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/EnumDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/EnumMemberDemo.java" />
-        <option value="$PROJECT_DIR$/src/javacore/AnnotationDemo.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="509" />
-    <option name="y" value="68" />
-    <option name="width" value="1242" />
-    <option name="height" value="886" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javacore" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javasub" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1QDuQiCx9ZnSgZkxs3VHcLS96Ye" />
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -222,6 +268,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -240,7 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AnnotationDemo">
+  <component name="RunManager" selected="Application.StreamApiDemo">
     <configuration name="AnnotationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacore.AnnotationDemo" />
       <module name="java-core" />
@@ -293,8 +340,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.NestedClassDemo" />
+    <configuration name="StreamApiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.StreamApiDemo" />
       <module name="java-core" />
       <extension name="coverage">
         <pattern>
@@ -308,11 +355,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamApiDemo" />
         <item itemvalue="Application.AnnotationDemo" />
         <item itemvalue="Application.EnumMemberDemo" />
         <item itemvalue="Application.EnumDemo" />
         <item itemvalue="Application.AnonyInnerClassDemo" />
-        <item itemvalue="Application.NestedClassDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -329,519 +376,20 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="509" y="68" width="1242" height="886" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2405822" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20958751" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32998884" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24974619" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2405822" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20958751" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32998884" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24974619" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javacore/UserInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="216" column="38" selection-start-line="216" selection-start-column="38" selection-end-line="216" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="148" column="13" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Properties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5700">
-          <caret line="121" column="6" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/MakePropertiesDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/DemoToString.java" />
-    <entry file="file://$PROJECT_DIR$/src/javacore/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/DemoQRCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="39" selection-start-line="9" selection-start-column="8" selection-end-line="17" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/DemoWrappingClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/HandlingFileDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/DemoCopy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="26" column="82" lean-forward="true" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/SerialDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="59" lean-forward="true" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/ClassDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/College.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/SerializeXML.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="738" column="69" selection-start-line="733" selection-end-line="738" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/ThreadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/RunnableThreadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/CollectionDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/InterThreadCommunicationDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="74" column="43" selection-start-line="74" selection-start-column="43" selection-end-line="74" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/ThreadJoinAliveDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="72" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/VectorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="108" column="7" lean-forward="true" selection-start-line="108" selection-start-column="7" selection-end-line="108" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/StreamApiDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/GenericsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
-          <folding>
-            <element signature="e#77#78#0" expanded="true" />
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="143" column="41" lean-forward="true" selection-start-line="143" selection-start-column="39" selection-end-line="143" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/AbstractCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="60" column="58" lean-forward="true" selection-start-line="60" selection-start-column="58" selection-end-line="60" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="70" column="54" lean-forward="true" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="106" column="38" selection-start-line="106" selection-start-column="38" selection-end-line="106" selection-end-column="38" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/CompImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="139" column="37" selection-start-line="139" selection-start-column="37" selection-end-line="139" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Float.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="1213" column="7" lean-forward="true" selection-start-line="1213" selection-start-column="7" selection-end-line="1213" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-782">
-          <caret line="110" column="40" selection-start-line="110" selection-start-column="40" selection-end-line="110" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-814">
-          <caret line="37" column="53" lean-forward="true" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7414">
-          <caret line="123" column="38" selection-start-line="123" selection-start-column="38" selection-end-line="123" selection-end-column="38" />
-          <folding>
-            <element signature="e#4697#4698#0" expanded="true" />
-            <element signature="e#4742#4743#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/SetDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/CollectionsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/ComparatorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1081">
-          <caret line="374" column="13" selection-start-line="374" selection-start-column="4" selection-end-line="374" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/MapDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/MemberInnerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-          <folding>
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/NestedClassDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/AnonyInnerClassDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/EnumDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/EnumMemberDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-          <folding>
-            <element signature="e#661#662#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javacore/AnnotationDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
